@@ -49,11 +49,3 @@ Ex. `--accent 4`
 
 Ex. `--volume 6`
 * note volume for the first (accent) beat of each measure (Default: 8.0)
-### What Went Down
-
-I originally expected to do this assignment in Rust, and I still may in my own time rewrite this program in Rust.  That being said I really didn't have the time to spare for any roadblocks in the way, so I opted to write this homework in Python.  I originally was going to use `simpleaudio` library, however, I opted to use `sounddevice` to deal with audio, as I also want to fix my currently audio woes in my main project, and I'm in the process of rewriting with `sounddevice` instead of PyAudio.  I wanted to get some experience with sounddevice before implementing in my main project, and that was one of the key takeaways here, along with implementing a cool command line parser.  Not sure why I didn't use libraries for that in the past, as I always ended up writing those myself, and it truly can be a pain when the one thing you want to focus on is writing the actual functional code.  
-
-The program works as intended, and I learned quite a lot in the process, and was interesting as well to create something that makes more than an audible beep, and I will be fun to perhaps flesh this out a bit more, with some additional features down the line as I further my own music/DSP learning outside of this class and afterward.
-###  How It Went
-
-Overall, it went rather painlessly, and I was able to get this up and running in a day or so.  That being said, it may have gone that smooth in Rust as well, however, I didn't want to risk it, and there was far more resources available in terms of online reading and also classmate help if I went the Python route. Again, I may still rewrite this in Rust as I feel the functionality could prove useful to go along with my Generative Midi Musicbox Term Project that I did for the CS410P Programming in Rust class that I took last term.  The term project actually in hindsight is something I could've made in this class, but overall I'm excited to be working on a sytnh this term, although it been proving to be quite difficult for me.  Anyways, that aside, I truly found this simple aleatoric program to be quite fun and rewarding to create.  
