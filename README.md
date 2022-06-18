@@ -49,3 +49,8 @@ Ex. `--accent 4`
 
 Ex. `--volume 6`
 * note volume for the first (accent) beat of each measure (Default: 8.0)
+
+# Todo:
+
+* talk about samples
+* talk about callback functions
