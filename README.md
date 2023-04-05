@@ -1,6 +1,5 @@
-## HW4: Aleatoric
+## Aleatoric_py
 
-CS410P - Music, Sound, and Computers
 
 *Devon Fox 2022*
 
@@ -55,6 +54,3 @@ Ex. `--volume 6`
 * talk about samples
 * talk about callback functions
 * talk python dependencies
-
-* test
-* test 1 2 
